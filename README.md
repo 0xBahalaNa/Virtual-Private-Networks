@@ -76,3 +76,6 @@ Once you're connected to ProtonVPN, go back to WhatIsMyAddress and look at the c
 </p>
 
 Congratulations, you now know what a VPN is and how it works! You also have ProtonVPN for free unless you want to upgrade. VPNs are vital if you want to protect your data. Especially if you are doing work in another country or in public, it's probably a good idea to use a VPN. Thank you for checking out my tutorial!
+
+
+**REMEMBER TO DELETE YOUR RESOURCES ONCE YOU ARE DONE WITH THE LAB!**
